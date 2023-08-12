@@ -1,0 +1,33 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>SyncfusionMAUIApp1</name>
+    </assembly>
+    <members>
+        <member name="T:SyncfusionMAUIApp1.AutocompleteFeatures">
+            <summary>
+            AutocompleteFeatures class
+            </summary>
+        </member>
+        <member name="M:SyncfusionMAUIApp1.AutocompleteFeatures.#ctor">
+            <summary>
+            AutocompleteFeatures constructor
+            </summary>
+        </member>
+        <member name="T:SyncfusionMAUIApp1.SocialMedia">
+            <summary>
+            AutocompleteFeatures Model class
+            </summary>
+        </member>
+        <member name="T:SyncfusionMAUIApp1.SocialMediaViewModel">
+            <summary>
+            AutocompleteFeatures ViewModel class
+            </summary>
+        </member>
+        <member name="M:SyncfusionMAUIApp1.SocialMediaViewModel.#ctor">
+            <summary>
+            AutocompleteFeatures ViewModel class constructor
+            </summary>
+        </member>
+    </members>
+</doc>
